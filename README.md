@@ -1,6 +1,6 @@
 # Email Etiquette & Professional Writing
 
-A fully responsive, interactive **web presentation** built from the *Email Etiquette & Professional Writing* slide deck by **MR Tejas Jaiswal** (BCA FSD, 1st Year).
+A fully responsive, interactive **web presentation** built from the *Email Etiquette & Professional Writing* slide deck by **Shikhar Srivastava** (BCA FSD, 1st Year).
 
 ## 🌐 Live Demo
 *(Deploy to GitHub Pages to get a live URL — see below)*
@@ -36,3 +36,6 @@ email-etiquette/
 ## 📄 License
 
 MIT — free for personal and academic use.
+
+---
+*Created by Shikhar Srivastava*
